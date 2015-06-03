@@ -1,0 +1,6 @@
+[submodule "submodules/AndroidLib"]
+	path = submodules/AndroidLib
+	url = git@github.com:shanwu/AndroidLib.git
+[submodule "submodules/LibSuperUser"]
+	path = submodules/LibSuperUser
+	url = git@github.com:shanwu/libsuperuser.git
